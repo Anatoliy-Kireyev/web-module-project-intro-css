@@ -1,0 +1,230 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+
+nav a {
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1px;
+  margin: 4% 4%;
+  border-radius: 12px;
+  text-align: center;
+}
+.buttons {
+  display: block;
+  text-align: center;
+  margin: auto;
+  font-size: 3rem;
+}
+
+.button1 {
+  display: inline-block;
+  background-color: #ff764e;
+  width: 15%;
+  padding: 1% 0;
+  text-align: center;
+}
+
+.button2 {
+  background-color: #5ed3eb;
+  color: white;
+  display: inline-block;
+  width: 15%;
+  padding: 1% 0;
+  text-align: center;
+}
+
+.button3 {
+  background-color: #ffcd69;
+  color: white;
+  display: inline-block;
+  width: 15%;
+  padding: 1% 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 9rem;
+  font-family: fantasy;
+  letter-spacing: 0.5rem;
+}
+
+.info p {
+  display: block;
+  letter-spacing: 0.2rem;
+  font-size: 1.6rem;
+  font-family: Chelsea Market;
+}
+
+.header-image {
+  border-radius: 50%;
+  text-align: left;
+  float: left;
+  width: 25%;
+  height: auto;
+  margin: 5% 10%;
+}
+
+.info {
+  display: block;
+  font-size: 1.6rem;
+  text-align: center;
+  float: center;
+  padding: 10%;
+}
+
+.first-paragraph {
+  display: inline-block;
+  background-color: tan;
+  font-size: 3rem;
+  letter-spacing: 0.5rem;
+  padding: 2% 2%;
+  text-align: center;
+  color: white;
+  margin: 10%;
+}
+.boldtext {
+  font-weight: bold;
+}
+.two-blocks img {
+  
+  height: 250px;
+  width: 250px;
+  line-height: 20px;
+  text-align: center;
+  
+}
+
+
+
+
+.firstblock {
+  display: block;
+  text-align: center;
+  font-size: 1.6rem;
+  margin:0 auto;
+  width: 20%;
+  
+  
+  
+  
+}
+
+.firstblock p {
+  padding: auto;
+}
+
+.secondblock {
+  display: block;
+  text-align: center;
+  font-size: 1.6rem;
+  margin:0 auto;
+  width: 20%;
+  margin-bottom: 2%;
+}
+
+.footerimage {
+  display: block;
+  background: url(https://github.com/Anatoliy-Kireyev/web-module-project-intro-css/blob/anatoliy-kireyev/assets/footer_img.jpg?raw=true);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  
+  
+}
+footer .buttons {
+  padding: 1%;
+  background-color: silver;
+  background-size: cover;
+}
